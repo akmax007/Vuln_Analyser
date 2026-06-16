@@ -84,7 +84,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/akmax007/Vuln_Analyser.git
-cd vulnerability-management-dashboard
+cd Vuln_Analyser
 ```
 
 Install dependencies:
