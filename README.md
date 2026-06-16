@@ -83,7 +83,7 @@ project/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/vulnerability-management-dashboard.git
+git clone https://github.com/akmax007/Vuln_Analyser.git
 cd vulnerability-management-dashboard
 ```
 
